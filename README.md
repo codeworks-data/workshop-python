@@ -1,1 +1,1 @@
-# workshop-python
+Write a function **findWord** that takes a list of letter combinaisons in input, and returns the word issued from the combinaisons.

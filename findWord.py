@@ -1,0 +1,2 @@
+def findWord():
+    pass

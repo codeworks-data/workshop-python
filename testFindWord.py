@@ -1,0 +1,6 @@
+assert findWord(["P>E","E>R","R>U"]) == "PERU"
+assert findWord(["I>N","A>I","P>A","S>P"]) == "SPAIN"
+assert findWord(["U>N", "G>A", "R>Y", "H>U", "N>G", "A>R"]) == "HUNGARY"
+assert findWord(["I>F", "W>I", "S>W", "F>T"]) == "SWIFT"
+assert findWord(["R>T", "A>L", "P>O", "O>R", "G>A", "T>U", "U>G"]) == "PORTUGAL"
+assert findWord(["W>I", "R>L", "T>Z", "Z>E", "S>W", "E>R", "L>A", "A>N", "N>D", "I>T"]) == "SWITZERLAND"
